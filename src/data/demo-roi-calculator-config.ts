@@ -292,7 +292,7 @@ export const LAND_SIZE_EXAMPLES: LandSizeExample[] = [
   {
     id: 'micro',
     name: 'Micro Garden',
-    emoji: '🪴',
+    emoji: '🌱',
     landSize: 5,
     description: 'Pot/balkon urban farming',
     suggestedPlant: 'selada',
