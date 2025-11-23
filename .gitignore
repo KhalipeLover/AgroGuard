@@ -1,0 +1,34 @@
+# Node module dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+vite.cache/
+*.tsbuildinfo
+
+# Backup files
+*.tmp
+*.swp
+
+# Git itself
+.git/
